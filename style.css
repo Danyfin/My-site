@@ -180,6 +180,7 @@ footer{
     background-image: url(/img/Rectangle5.png);
     background-size: cover;
     background-position: 50% 50%;
+    height: 400px;
     padding: 50px;
     display: flex;
     flex-wrap: wrap;
@@ -258,7 +259,7 @@ footer{
   }
   
 
-  }
+  
   .form {
     height: 800px;
     display: block;
